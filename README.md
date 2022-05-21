@@ -1,5 +1,6 @@
 # Minimisation_Bisimulation1.1
-Minimisation de systèmes de transitions par rapport à la bisimulation
+Minimisation de systèmes de transitions par rapport à la bisimulation:
+Implémentation de l'algorithme de Kannelakis et Smolka pour réaliser cette minimisation (voire: https://www.ru.is/faculty/luca/PAPERS/algobisimchapter.pdf)
 
 Comment marche t_il:
     
