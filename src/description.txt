@@ -1,0 +1,3 @@
+* Implémentation de l'arbre avec les étiquettes sous les transitions plutôt que sur la racine comme pour Graphe_version1.
+
+* Actuellement on implémente l'algorithme de split de Kanellakis and Smolka demandé par Madame Sophie lors de la dernière réunion, mais on ne l'a pas encore fini.  
