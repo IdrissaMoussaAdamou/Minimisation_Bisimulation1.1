@@ -1,5 +1,6 @@
 # Minimisation_Bisimulation1.1
 Minimisation de systèmes de transitions par rapport à la bisimulation
+
 Comment marche t_il:
     
     .l'utilisateur tape sur le terminale un système de transition
